@@ -7,5 +7,6 @@ public interface GameOfWar {
 	void playRound();
 	void resolveRound(Player roundWinner);
 	void playGame();
+	void resolveWinner();
 
 }

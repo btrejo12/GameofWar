@@ -5,7 +5,6 @@ import java.util.Iterator;
 
 public class Hand implements Iterable<Card>{
 	private ArrayList<Card> handCards;
-	private int cardsLeft;
 	
 	public Hand() {
 		handCards = new ArrayList<Card>();
