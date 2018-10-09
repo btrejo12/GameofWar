@@ -39,4 +39,12 @@ public class Hand implements Iterable<Card>{
 		return handCards.iterator();
 	}
 
+	public ArrayList<Card> getHandCards() {
+		return handCards;
+	}
+
+	public void setHandCards(ArrayList<Card> handCards) {
+		this.handCards = handCards;
+	}
+
 }

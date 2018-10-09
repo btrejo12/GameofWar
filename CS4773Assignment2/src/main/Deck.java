@@ -9,17 +9,7 @@ public class Deck implements Iterable<Card>{
 	private ArrayList<Card> deckofCards;
 	
 	public Deck() {
-		String suites[] = { "SPADES", "HEARTS", "DIAMONDS", "CLUBS"};
-		String rank[] = {"ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX", "SEVEN", "EIGHT", "NINE", "TEN", "JACK", "QUEEN", "KING", "ACE"};
-		
 		deckofCards = new ArrayList<Card>();
-		for(int i = 0; i < suites.length; i++) {
-			for(int j =0 ; j < 14; j++) {
-				
-				Card thisCard = new Card(suites[i], rank[j], j+1);
-				deckofCards.add(thisCard);
-			}
-		}
 	}
 
 	public void shuffle() {
@@ -54,9 +44,43 @@ public class Deck implements Iterable<Card>{
 			}
 		}
 	}
+	
+	public void setUpStandardDeck() {
+		String suites[] = { "SPADES", "HEARTS", "DIAMONDS", "CLUBS"};
+		String rank[] = {"ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX", "SEVEN", "EIGHT", "NINE", "TEN", "JACK", "QUEEN", "KING", "ACE"};
+		
+		for(int i = 0; i < suites.length; i++) {
+			for(int j =0 ; j < 14; j++) {
+				
+				Card thisCard = new Card(suites[i], rank[j], j+1);
+				deckofCards.add(thisCard);
+			}
+		}
+	}
+	
+	public void setUpTestDeck() {
+		String suites[] = { "SPADES", "HEARTS"};
+		String rank[] = {"ONE", "TWO"};
+		
+		for(int i = 0; i < suites.length; i++) {
+			for(int j =0 ; j < 2; j++) {
+				
+				Card thisCard = new Card(suites[i], rank[j], j+1);
+				deckofCards.add(thisCard);
+			}
+		}
+	}
 
 	@Override
 	public Iterator<Card> iterator() {
 		return deckofCards.iterator();
+	}
+
+	public ArrayList<Card> getDeckofCards() {
+		return deckofCards;
+	}
+
+	public void setDeckofCards(ArrayList<Card> deckofCards) {
+		this.deckofCards = deckofCards;
 	}
 }

@@ -44,4 +44,8 @@ public class WinPile implements Iterable<Card>{
 		return winPileString;
 	}
 
+	public void setWinPile(ArrayList<Card> winPile) {
+		this.winPile = winPile;
+	}
+
 }

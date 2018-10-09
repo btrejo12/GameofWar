@@ -14,22 +14,18 @@ public class WarVariation2 implements GameOfWar{
 	
 	ArrayList<Card> wonCards;
 	
-	private static Logger logger = LogManager.getLogger(WarVariation2.class);
+	private static Logger logger;
 	
-	public WarVariation2() {
+	public WarVariation2(Player play1, Player play2, Deck gameDeck, Logger log) {
 		gameInProgress = true;
+		WarVariation2.logger = log;
 		
-		player1 = new Player("Bob");
-		player2 = new Player("Sue");
+		player1 = play1;
+		player2 = play2;
 
-		
-		Deck gameDeck = new Deck();
 		wonCards = new ArrayList<Card>();
-		gameDeck.shuffle();
 		
 		gameDeck.dealDeckEvenly(new Player[] {player1, player2});
-		
-		playGame();
 	}
 	
 	@Override

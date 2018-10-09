@@ -43,4 +43,24 @@ public class Player {
 		return this.score;
 	}
 
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void setCurrentHand(Hand currentHand) {
+		this.currentHand = currentHand;
+	}
+
+	public void setScore(int score) {
+		this.score = score;
+	}
+
+	public void setPlayerWinPile(WinPile playerWinPile) {
+		this.playerWinPile = playerWinPile;
+	}
+
 }

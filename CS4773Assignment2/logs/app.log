@@ -18516,3 +18516,560 @@
 23:18:36.234 INFO  main.WarVariation3 : lowkeysnc wins the round
 23:18:36.234 INFO  main.WarVariation3 : Score is Bob 21, Sue 12, lowkeysnc 20
 23:18:36.235 INFO  main.WarVariation3 : Bob wins!
+20:19:37.979 INFO  main.WarVariation1 : Score is Bob 0, Sue 0
+20:19:37.984 INFO  main.WarVariation1 : Tie game!
+20:28:18.690 INFO  main.WarVariation1 : Bob plays EIGHT of SPADES as up card
+20:28:18.693 INFO  main.WarVariation1 : Sue plays TWO of CLUBS as up card
+20:28:18.694 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.694 INFO  main.WarVariation1 : Score is Bob 2, Sue 0
+20:28:18.694 INFO  main.WarVariation1 : Bob plays QUEEN of SPADES as up card
+20:28:18.695 INFO  main.WarVariation1 : Sue plays THREE of CLUBS as up card
+20:28:18.695 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.695 INFO  main.WarVariation1 : Score is Bob 4, Sue 0
+20:28:18.695 INFO  main.WarVariation1 : Bob plays KING of CLUBS as up card
+20:28:18.696 INFO  main.WarVariation1 : Sue plays SIX of HEARTS as up card
+20:28:18.696 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.696 INFO  main.WarVariation1 : Score is Bob 6, Sue 0
+20:28:18.696 INFO  main.WarVariation1 : Bob plays FIVE of DIAMONDS as up card
+20:28:18.697 INFO  main.WarVariation1 : Sue plays TEN of HEARTS as up card
+20:28:18.697 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.697 INFO  main.WarVariation1 : Score is Bob 6, Sue 2
+20:28:18.698 INFO  main.WarVariation1 : Bob plays QUEEN of HEARTS as up card
+20:28:18.698 INFO  main.WarVariation1 : Sue plays EIGHT of CLUBS as up card
+20:28:18.698 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.698 INFO  main.WarVariation1 : Score is Bob 8, Sue 2
+20:28:18.699 INFO  main.WarVariation1 : Bob plays SEVEN of CLUBS as up card
+20:28:18.699 INFO  main.WarVariation1 : Sue plays THREE of HEARTS as up card
+20:28:18.699 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.699 INFO  main.WarVariation1 : Score is Bob 10, Sue 2
+20:28:18.700 INFO  main.WarVariation1 : Bob plays ONE of DIAMONDS as up card
+20:28:18.700 INFO  main.WarVariation1 : Sue plays JACK of CLUBS as up card
+20:28:18.700 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.700 INFO  main.WarVariation1 : Score is Bob 10, Sue 4
+20:28:18.701 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+20:28:18.701 INFO  main.WarVariation1 : Sue plays QUEEN of DIAMONDS as up card
+20:28:18.701 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.701 INFO  main.WarVariation1 : Score is Bob 10, Sue 6
+20:28:18.702 INFO  main.WarVariation1 : Bob plays FOUR of HEARTS as up card
+20:28:18.702 INFO  main.WarVariation1 : Sue plays SEVEN of HEARTS as up card
+20:28:18.702 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.702 INFO  main.WarVariation1 : Score is Bob 10, Sue 8
+20:28:18.703 INFO  main.WarVariation1 : Bob plays KING of SPADES as up card
+20:28:18.703 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+20:28:18.703 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.704 INFO  main.WarVariation1 : Score is Bob 12, Sue 8
+20:28:18.704 INFO  main.WarVariation1 : Bob plays EIGHT of HEARTS as up card
+20:28:18.704 INFO  main.WarVariation1 : Sue plays JACK of SPADES as up card
+20:28:18.705 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.705 INFO  main.WarVariation1 : Score is Bob 12, Sue 10
+20:28:18.705 INFO  main.WarVariation1 : Bob plays FIVE of HEARTS as up card
+20:28:18.706 INFO  main.WarVariation1 : Sue plays EIGHT of DIAMONDS as up card
+20:28:18.706 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.706 INFO  main.WarVariation1 : Score is Bob 12, Sue 12
+20:28:18.707 INFO  main.WarVariation1 : Bob plays FOUR of DIAMONDS as up card
+20:28:18.707 INFO  main.WarVariation1 : Sue plays THREE of DIAMONDS as up card
+20:28:18.707 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.708 INFO  main.WarVariation1 : Score is Bob 14, Sue 12
+20:28:18.708 INFO  main.WarVariation1 : Bob plays NINE of CLUBS as up card
+20:28:18.708 INFO  main.WarVariation1 : Sue plays TEN of DIAMONDS as up card
+20:28:18.709 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.709 INFO  main.WarVariation1 : Score is Bob 14, Sue 14
+20:28:18.713 INFO  main.WarVariation1 : Bob plays TEN of SPADES as up card
+20:28:18.713 INFO  main.WarVariation1 : Sue plays FOUR of SPADES as up card
+20:28:18.714 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.714 INFO  main.WarVariation1 : Score is Bob 16, Sue 14
+20:28:18.714 INFO  main.WarVariation1 : Bob plays ONE of CLUBS as up card
+20:28:18.715 INFO  main.WarVariation1 : Sue plays FOUR of CLUBS as up card
+20:28:18.715 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.715 INFO  main.WarVariation1 : Score is Bob 16, Sue 16
+20:28:18.716 INFO  main.WarVariation1 : Bob plays ACE of CLUBS as up card
+20:28:18.716 INFO  main.WarVariation1 : Sue plays SEVEN of SPADES as up card
+20:28:18.716 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.716 INFO  main.WarVariation1 : Score is Bob 18, Sue 16
+20:28:18.716 INFO  main.WarVariation1 : Bob plays TWO of DIAMONDS as up card
+20:28:18.717 INFO  main.WarVariation1 : Sue plays NINE of HEARTS as up card
+20:28:18.717 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.717 INFO  main.WarVariation1 : Score is Bob 18, Sue 18
+20:28:18.717 INFO  main.WarVariation1 : Bob plays THREE of SPADES as up card
+20:28:18.717 INFO  main.WarVariation1 : Sue plays FIVE of CLUBS as up card
+20:28:18.718 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.718 INFO  main.WarVariation1 : Score is Bob 18, Sue 20
+20:28:18.718 INFO  main.WarVariation1 : Bob plays KING of HEARTS as up card
+20:28:18.718 INFO  main.WarVariation1 : Sue plays ONE of HEARTS as up card
+20:28:18.718 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.718 INFO  main.WarVariation1 : Score is Bob 20, Sue 20
+20:28:18.719 INFO  main.WarVariation1 : Bob plays SIX of CLUBS as up card
+20:28:18.719 INFO  main.WarVariation1 : Sue plays SIX of DIAMONDS as up card
+20:28:18.719 INFO  main.WarVariation1 : War!
+20:28:18.719 INFO  main.WarVariation1 : Bob plays TEN of CLUBS as up card
+20:28:18.719 INFO  main.WarVariation1 : Sue plays FIVE of SPADES as up card
+20:28:18.719 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.720 INFO  main.WarVariation1 : Score is Bob 24, Sue 20
+20:28:18.720 INFO  main.WarVariation1 : Bob plays TWO of SPADES as up card
+20:28:18.720 INFO  main.WarVariation1 : Sue plays JACK of HEARTS as up card
+20:28:18.720 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.721 INFO  main.WarVariation1 : Score is Bob 24, Sue 22
+20:28:18.721 INFO  main.WarVariation1 : Bob plays KING of DIAMONDS as up card
+20:28:18.721 INFO  main.WarVariation1 : Sue plays QUEEN of CLUBS as up card
+20:28:18.721 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.721 INFO  main.WarVariation1 : Score is Bob 26, Sue 22
+20:28:18.722 INFO  main.WarVariation1 : Bob plays SEVEN of DIAMONDS as up card
+20:28:18.722 INFO  main.WarVariation1 : Sue plays NINE of SPADES as up card
+20:28:18.722 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.722 INFO  main.WarVariation1 : Score is Bob 26, Sue 24
+20:28:18.722 INFO  main.WarVariation1 : Bob plays NINE of DIAMONDS as up card
+20:28:18.722 INFO  main.WarVariation1 : Sue plays ACE of SPADES as up card
+20:28:18.723 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.723 INFO  main.WarVariation1 : Score is Bob 26, Sue 26
+20:28:18.723 INFO  main.WarVariation1 : Bob plays SIX of SPADES as up card
+20:28:18.723 INFO  main.WarVariation1 : Sue plays ACE of HEARTS as up card
+20:28:18.723 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.724 INFO  main.WarVariation1 : Score is Bob 26, Sue 28
+20:28:18.724 INFO  main.WarVariation1 : Bob plays JACK of DIAMONDS as up card
+20:28:18.724 INFO  main.WarVariation1 : Sue plays ACE of DIAMONDS as up card
+20:28:18.724 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.724 INFO  main.WarVariation1 : Score is Bob 26, Sue 30
+20:28:18.725 INFO  main.WarVariation1 : Bob plays EIGHT of SPADES as up card
+20:28:18.725 INFO  main.WarVariation1 : Sue plays FIVE of DIAMONDS as up card
+20:28:18.725 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.725 INFO  main.WarVariation1 : Score is Bob 28, Sue 30
+20:28:18.725 INFO  main.WarVariation1 : Bob plays TWO of CLUBS as up card
+20:28:18.725 INFO  main.WarVariation1 : Sue plays TEN of HEARTS as up card
+20:28:18.725 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.726 INFO  main.WarVariation1 : Score is Bob 28, Sue 32
+20:28:18.726 INFO  main.WarVariation1 : Bob plays QUEEN of SPADES as up card
+20:28:18.726 INFO  main.WarVariation1 : Sue plays ONE of DIAMONDS as up card
+20:28:18.726 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.726 INFO  main.WarVariation1 : Score is Bob 30, Sue 32
+20:28:18.726 INFO  main.WarVariation1 : Bob plays THREE of CLUBS as up card
+20:28:18.727 INFO  main.WarVariation1 : Sue plays JACK of CLUBS as up card
+20:28:18.727 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.727 INFO  main.WarVariation1 : Score is Bob 30, Sue 34
+20:28:18.727 INFO  main.WarVariation1 : Bob plays KING of CLUBS as up card
+20:28:18.727 INFO  main.WarVariation1 : Sue plays ONE of SPADES as up card
+20:28:18.727 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.728 INFO  main.WarVariation1 : Score is Bob 32, Sue 34
+20:28:18.728 INFO  main.WarVariation1 : Bob plays SIX of HEARTS as up card
+20:28:18.728 INFO  main.WarVariation1 : Sue plays QUEEN of DIAMONDS as up card
+20:28:18.728 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.728 INFO  main.WarVariation1 : Score is Bob 32, Sue 36
+20:28:18.728 INFO  main.WarVariation1 : Bob plays QUEEN of HEARTS as up card
+20:28:18.728 INFO  main.WarVariation1 : Sue plays FOUR of HEARTS as up card
+20:28:18.729 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.729 INFO  main.WarVariation1 : Score is Bob 34, Sue 36
+20:28:18.729 INFO  main.WarVariation1 : Bob plays EIGHT of CLUBS as up card
+20:28:18.729 INFO  main.WarVariation1 : Sue plays SEVEN of HEARTS as up card
+20:28:18.729 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.729 INFO  main.WarVariation1 : Score is Bob 36, Sue 36
+20:28:18.730 INFO  main.WarVariation1 : Bob plays SEVEN of CLUBS as up card
+20:28:18.730 INFO  main.WarVariation1 : Sue plays EIGHT of HEARTS as up card
+20:28:18.730 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.730 INFO  main.WarVariation1 : Score is Bob 36, Sue 38
+20:28:18.730 INFO  main.WarVariation1 : Bob plays THREE of HEARTS as up card
+20:28:18.730 INFO  main.WarVariation1 : Sue plays JACK of SPADES as up card
+20:28:18.730 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.731 INFO  main.WarVariation1 : Score is Bob 36, Sue 40
+20:28:18.731 INFO  main.WarVariation1 : Bob plays KING of SPADES as up card
+20:28:18.731 INFO  main.WarVariation1 : Sue plays FIVE of HEARTS as up card
+20:28:18.731 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.731 INFO  main.WarVariation1 : Score is Bob 38, Sue 40
+20:28:18.731 INFO  main.WarVariation1 : Bob plays TWO of HEARTS as up card
+20:28:18.731 INFO  main.WarVariation1 : Sue plays EIGHT of DIAMONDS as up card
+20:28:18.732 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.732 INFO  main.WarVariation1 : Score is Bob 38, Sue 42
+20:28:18.732 INFO  main.WarVariation1 : Bob plays FOUR of DIAMONDS as up card
+20:28:18.732 INFO  main.WarVariation1 : Sue plays NINE of CLUBS as up card
+20:28:18.732 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.732 INFO  main.WarVariation1 : Score is Bob 38, Sue 44
+20:28:18.732 INFO  main.WarVariation1 : Bob plays THREE of DIAMONDS as up card
+20:28:18.732 INFO  main.WarVariation1 : Sue plays TEN of DIAMONDS as up card
+20:28:18.733 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.733 INFO  main.WarVariation1 : Score is Bob 38, Sue 46
+20:28:18.733 INFO  main.WarVariation1 : Bob plays TEN of SPADES as up card
+20:28:18.733 INFO  main.WarVariation1 : Sue plays ONE of CLUBS as up card
+20:28:18.733 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.734 INFO  main.WarVariation1 : Score is Bob 40, Sue 46
+20:28:18.734 INFO  main.WarVariation1 : Bob plays FOUR of SPADES as up card
+20:28:18.734 INFO  main.WarVariation1 : Sue plays FOUR of CLUBS as up card
+20:28:18.734 INFO  main.WarVariation1 : War!
+20:28:18.734 INFO  main.WarVariation1 : Bob plays ACE of CLUBS as up card
+20:28:18.734 INFO  main.WarVariation1 : Sue plays TWO of DIAMONDS as up card
+20:28:18.734 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.735 INFO  main.WarVariation1 : Score is Bob 44, Sue 46
+20:28:18.735 INFO  main.WarVariation1 : Bob plays SEVEN of SPADES as up card
+20:28:18.735 INFO  main.WarVariation1 : Sue plays NINE of HEARTS as up card
+20:28:18.735 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.736 INFO  main.WarVariation1 : Score is Bob 44, Sue 48
+20:28:18.736 INFO  main.WarVariation1 : Bob plays KING of HEARTS as up card
+20:28:18.736 INFO  main.WarVariation1 : Sue plays THREE of SPADES as up card
+20:28:18.736 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.736 INFO  main.WarVariation1 : Score is Bob 46, Sue 48
+20:28:18.736 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+20:28:18.737 INFO  main.WarVariation1 : Sue plays FIVE of CLUBS as up card
+20:28:18.737 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.737 INFO  main.WarVariation1 : Score is Bob 46, Sue 50
+20:28:18.737 INFO  main.WarVariation1 : Bob plays SIX of CLUBS as up card
+20:28:18.737 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+20:28:18.738 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.738 INFO  main.WarVariation1 : Score is Bob 48, Sue 50
+20:28:18.738 INFO  main.WarVariation1 : Bob plays SIX of DIAMONDS as up card
+20:28:18.738 INFO  main.WarVariation1 : Sue plays JACK of HEARTS as up card
+20:28:18.738 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.738 INFO  main.WarVariation1 : Score is Bob 48, Sue 52
+20:28:18.739 INFO  main.WarVariation1 : Bob plays TEN of CLUBS as up card
+20:28:18.739 INFO  main.WarVariation1 : Sue plays SEVEN of DIAMONDS as up card
+20:28:18.739 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.739 INFO  main.WarVariation1 : Score is Bob 50, Sue 52
+20:28:18.739 INFO  main.WarVariation1 : Bob plays FIVE of SPADES as up card
+20:28:18.740 INFO  main.WarVariation1 : Sue plays NINE of SPADES as up card
+20:28:18.740 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.740 INFO  main.WarVariation1 : Score is Bob 50, Sue 54
+20:28:18.740 INFO  main.WarVariation1 : Bob plays KING of DIAMONDS as up card
+20:28:18.740 INFO  main.WarVariation1 : Sue plays NINE of DIAMONDS as up card
+20:28:18.740 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.741 INFO  main.WarVariation1 : Score is Bob 52, Sue 54
+20:28:18.741 INFO  main.WarVariation1 : Bob plays QUEEN of CLUBS as up card
+20:28:18.741 INFO  main.WarVariation1 : Sue plays ACE of SPADES as up card
+20:28:18.741 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.741 INFO  main.WarVariation1 : Score is Bob 52, Sue 56
+20:28:18.742 INFO  main.WarVariation1 : Bob plays EIGHT of SPADES as up card
+20:28:18.742 INFO  main.WarVariation1 : Sue plays SIX of SPADES as up card
+20:28:18.742 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.742 INFO  main.WarVariation1 : Score is Bob 54, Sue 56
+20:28:18.742 INFO  main.WarVariation1 : Bob plays FIVE of DIAMONDS as up card
+20:28:18.742 INFO  main.WarVariation1 : Sue plays ACE of HEARTS as up card
+20:28:18.743 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.743 INFO  main.WarVariation1 : Score is Bob 54, Sue 58
+20:28:18.743 INFO  main.WarVariation1 : Bob plays QUEEN of SPADES as up card
+20:28:18.743 INFO  main.WarVariation1 : Sue plays JACK of DIAMONDS as up card
+20:28:18.743 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.743 INFO  main.WarVariation1 : Score is Bob 56, Sue 58
+20:28:18.744 INFO  main.WarVariation1 : Bob plays ONE of DIAMONDS as up card
+20:28:18.744 INFO  main.WarVariation1 : Sue plays ACE of DIAMONDS as up card
+20:28:18.744 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.744 INFO  main.WarVariation1 : Score is Bob 56, Sue 60
+20:28:18.744 INFO  main.WarVariation1 : Bob plays KING of CLUBS as up card
+20:28:18.745 INFO  main.WarVariation1 : Sue plays TWO of CLUBS as up card
+20:28:18.745 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.745 INFO  main.WarVariation1 : Score is Bob 58, Sue 60
+20:28:18.745 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+20:28:18.745 INFO  main.WarVariation1 : Sue plays TEN of HEARTS as up card
+20:28:18.745 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.746 INFO  main.WarVariation1 : Score is Bob 58, Sue 62
+20:28:18.746 INFO  main.WarVariation1 : Bob plays QUEEN of HEARTS as up card
+20:28:18.746 INFO  main.WarVariation1 : Sue plays THREE of CLUBS as up card
+20:28:18.746 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.746 INFO  main.WarVariation1 : Score is Bob 60, Sue 62
+20:28:18.746 INFO  main.WarVariation1 : Bob plays FOUR of HEARTS as up card
+20:28:18.747 INFO  main.WarVariation1 : Sue plays JACK of CLUBS as up card
+20:28:18.747 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.755 INFO  main.WarVariation1 : Score is Bob 60, Sue 64
+20:28:18.755 INFO  main.WarVariation1 : Bob plays EIGHT of CLUBS as up card
+20:28:18.755 INFO  main.WarVariation1 : Sue plays SIX of HEARTS as up card
+20:28:18.756 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.757 INFO  main.WarVariation1 : Score is Bob 62, Sue 64
+20:28:18.757 INFO  main.WarVariation1 : Bob plays SEVEN of HEARTS as up card
+20:28:18.757 INFO  main.WarVariation1 : Sue plays QUEEN of DIAMONDS as up card
+20:28:18.757 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.758 INFO  main.WarVariation1 : Score is Bob 62, Sue 66
+20:28:18.758 INFO  main.WarVariation1 : Bob plays KING of SPADES as up card
+20:28:18.758 INFO  main.WarVariation1 : Sue plays SEVEN of CLUBS as up card
+20:28:18.759 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.759 INFO  main.WarVariation1 : Score is Bob 64, Sue 66
+20:28:18.760 INFO  main.WarVariation1 : Bob plays FIVE of HEARTS as up card
+20:28:18.760 INFO  main.WarVariation1 : Sue plays EIGHT of HEARTS as up card
+20:28:18.760 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.760 INFO  main.WarVariation1 : Score is Bob 64, Sue 68
+20:28:18.761 INFO  main.WarVariation1 : Bob plays TEN of SPADES as up card
+20:28:18.761 INFO  main.WarVariation1 : Sue plays THREE of HEARTS as up card
+20:28:18.761 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.762 INFO  main.WarVariation1 : Score is Bob 66, Sue 68
+20:28:18.762 INFO  main.WarVariation1 : Bob plays ONE of CLUBS as up card
+20:28:18.762 INFO  main.WarVariation1 : Sue plays JACK of SPADES as up card
+20:28:18.762 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.762 INFO  main.WarVariation1 : Score is Bob 66, Sue 70
+20:28:18.763 INFO  main.WarVariation1 : Bob plays FOUR of SPADES as up card
+20:28:18.763 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+20:28:18.763 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.764 INFO  main.WarVariation1 : Score is Bob 68, Sue 70
+20:28:18.764 INFO  main.WarVariation1 : Bob plays FOUR of CLUBS as up card
+20:28:18.764 INFO  main.WarVariation1 : Sue plays EIGHT of DIAMONDS as up card
+20:28:18.764 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.764 INFO  main.WarVariation1 : Score is Bob 68, Sue 72
+20:28:18.764 INFO  main.WarVariation1 : Bob plays ACE of CLUBS as up card
+20:28:18.765 INFO  main.WarVariation1 : Sue plays FOUR of DIAMONDS as up card
+20:28:18.765 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.765 INFO  main.WarVariation1 : Score is Bob 70, Sue 72
+20:28:18.765 INFO  main.WarVariation1 : Bob plays TWO of DIAMONDS as up card
+20:28:18.765 INFO  main.WarVariation1 : Sue plays NINE of CLUBS as up card
+20:28:18.766 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.766 INFO  main.WarVariation1 : Score is Bob 70, Sue 74
+20:28:18.766 INFO  main.WarVariation1 : Bob plays KING of HEARTS as up card
+20:28:18.767 INFO  main.WarVariation1 : Sue plays THREE of DIAMONDS as up card
+20:28:18.767 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.767 INFO  main.WarVariation1 : Score is Bob 72, Sue 74
+20:28:18.768 INFO  main.WarVariation1 : Bob plays THREE of SPADES as up card
+20:28:18.768 INFO  main.WarVariation1 : Sue plays TEN of DIAMONDS as up card
+20:28:18.768 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.768 INFO  main.WarVariation1 : Score is Bob 72, Sue 76
+20:28:18.768 INFO  main.WarVariation1 : Bob plays SIX of CLUBS as up card
+20:28:18.769 INFO  main.WarVariation1 : Sue plays SEVEN of SPADES as up card
+20:28:18.769 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.769 INFO  main.WarVariation1 : Score is Bob 72, Sue 78
+20:28:18.769 INFO  main.WarVariation1 : Bob plays TWO of SPADES as up card
+20:28:18.769 INFO  main.WarVariation1 : Sue plays NINE of HEARTS as up card
+20:28:18.769 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.770 INFO  main.WarVariation1 : Score is Bob 72, Sue 80
+20:28:18.770 INFO  main.WarVariation1 : Bob plays TEN of CLUBS as up card
+20:28:18.770 INFO  main.WarVariation1 : Sue plays ONE of HEARTS as up card
+20:28:18.770 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.770 INFO  main.WarVariation1 : Score is Bob 74, Sue 80
+20:28:18.771 INFO  main.WarVariation1 : Bob plays SEVEN of DIAMONDS as up card
+20:28:18.771 INFO  main.WarVariation1 : Sue plays FIVE of CLUBS as up card
+20:28:18.771 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.771 INFO  main.WarVariation1 : Score is Bob 76, Sue 80
+20:28:18.771 INFO  main.WarVariation1 : Bob plays KING of DIAMONDS as up card
+20:28:18.771 INFO  main.WarVariation1 : Sue plays SIX of DIAMONDS as up card
+20:28:18.772 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.772 INFO  main.WarVariation1 : Score is Bob 78, Sue 80
+20:28:18.772 INFO  main.WarVariation1 : Bob plays NINE of DIAMONDS as up card
+20:28:18.772 INFO  main.WarVariation1 : Sue plays JACK of HEARTS as up card
+20:28:18.772 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.773 INFO  main.WarVariation1 : Score is Bob 78, Sue 82
+20:28:18.773 INFO  main.WarVariation1 : Bob plays EIGHT of SPADES as up card
+20:28:18.773 INFO  main.WarVariation1 : Sue plays FIVE of SPADES as up card
+20:28:18.773 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.773 INFO  main.WarVariation1 : Score is Bob 80, Sue 82
+20:28:18.774 INFO  main.WarVariation1 : Bob plays SIX of SPADES as up card
+20:28:18.774 INFO  main.WarVariation1 : Sue plays NINE of SPADES as up card
+20:28:18.774 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.775 INFO  main.WarVariation1 : Score is Bob 80, Sue 84
+20:28:18.775 INFO  main.WarVariation1 : Bob plays QUEEN of SPADES as up card
+20:28:18.775 INFO  main.WarVariation1 : Sue plays QUEEN of CLUBS as up card
+20:28:18.776 INFO  main.WarVariation1 : War!
+20:28:18.776 INFO  main.WarVariation1 : Bob plays JACK of DIAMONDS as up card
+20:28:18.776 INFO  main.WarVariation1 : Sue plays ACE of SPADES as up card
+20:28:18.776 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.777 INFO  main.WarVariation1 : Score is Bob 80, Sue 88
+20:28:18.777 INFO  main.WarVariation1 : Bob plays KING of CLUBS as up card
+20:28:18.777 INFO  main.WarVariation1 : Sue plays FIVE of DIAMONDS as up card
+20:28:18.777 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.777 INFO  main.WarVariation1 : Score is Bob 82, Sue 88
+20:28:18.777 INFO  main.WarVariation1 : Bob plays TWO of CLUBS as up card
+20:28:18.778 INFO  main.WarVariation1 : Sue plays ACE of HEARTS as up card
+20:28:18.778 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.778 INFO  main.WarVariation1 : Score is Bob 82, Sue 90
+20:28:18.778 INFO  main.WarVariation1 : Bob plays QUEEN of HEARTS as up card
+20:28:18.778 INFO  main.WarVariation1 : Sue plays ONE of DIAMONDS as up card
+20:28:18.779 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.779 INFO  main.WarVariation1 : Score is Bob 84, Sue 90
+20:28:18.779 INFO  main.WarVariation1 : Bob plays THREE of CLUBS as up card
+20:28:18.779 INFO  main.WarVariation1 : Sue plays ACE of DIAMONDS as up card
+20:28:18.780 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.780 INFO  main.WarVariation1 : Score is Bob 84, Sue 92
+20:28:18.780 INFO  main.WarVariation1 : Bob plays EIGHT of CLUBS as up card
+20:28:18.780 INFO  main.WarVariation1 : Sue plays ONE of SPADES as up card
+20:28:18.780 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.781 INFO  main.WarVariation1 : Score is Bob 86, Sue 92
+20:28:18.781 INFO  main.WarVariation1 : Bob plays SIX of HEARTS as up card
+20:28:18.781 INFO  main.WarVariation1 : Sue plays TEN of HEARTS as up card
+20:28:18.781 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.781 INFO  main.WarVariation1 : Score is Bob 86, Sue 94
+20:28:18.782 INFO  main.WarVariation1 : Bob plays KING of SPADES as up card
+20:28:18.782 INFO  main.WarVariation1 : Sue plays FOUR of HEARTS as up card
+20:28:18.782 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.782 INFO  main.WarVariation1 : Score is Bob 88, Sue 94
+20:28:18.782 INFO  main.WarVariation1 : Bob plays SEVEN of CLUBS as up card
+20:28:18.783 INFO  main.WarVariation1 : Sue plays JACK of CLUBS as up card
+20:28:18.783 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.783 INFO  main.WarVariation1 : Score is Bob 88, Sue 96
+20:28:18.783 INFO  main.WarVariation1 : Bob plays TEN of SPADES as up card
+20:28:18.783 INFO  main.WarVariation1 : Sue plays SEVEN of HEARTS as up card
+20:28:18.784 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.784 INFO  main.WarVariation1 : Score is Bob 90, Sue 96
+20:28:18.784 INFO  main.WarVariation1 : Bob plays THREE of HEARTS as up card
+20:28:18.784 INFO  main.WarVariation1 : Sue plays QUEEN of DIAMONDS as up card
+20:28:18.784 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.784 INFO  main.WarVariation1 : Score is Bob 90, Sue 98
+20:28:18.785 INFO  main.WarVariation1 : Bob plays FOUR of SPADES as up card
+20:28:18.785 INFO  main.WarVariation1 : Sue plays FIVE of HEARTS as up card
+20:28:18.785 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.785 INFO  main.WarVariation1 : Score is Bob 90, Sue 100
+20:28:18.785 INFO  main.WarVariation1 : Bob plays TWO of HEARTS as up card
+20:28:18.785 INFO  main.WarVariation1 : Sue plays EIGHT of HEARTS as up card
+20:28:18.786 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.786 INFO  main.WarVariation1 : Score is Bob 90, Sue 102
+20:28:18.786 INFO  main.WarVariation1 : Bob plays ACE of CLUBS as up card
+20:28:18.786 INFO  main.WarVariation1 : Sue plays ONE of CLUBS as up card
+20:28:18.786 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.791 INFO  main.WarVariation1 : Score is Bob 92, Sue 102
+20:28:18.791 INFO  main.WarVariation1 : Bob plays FOUR of DIAMONDS as up card
+20:28:18.791 INFO  main.WarVariation1 : Sue plays JACK of SPADES as up card
+20:28:18.791 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.791 INFO  main.WarVariation1 : Score is Bob 92, Sue 104
+20:28:18.792 INFO  main.WarVariation1 : Bob plays KING of HEARTS as up card
+20:28:18.792 INFO  main.WarVariation1 : Sue plays FOUR of CLUBS as up card
+20:28:18.792 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.792 INFO  main.WarVariation1 : Score is Bob 94, Sue 104
+20:28:18.792 INFO  main.WarVariation1 : Bob plays THREE of DIAMONDS as up card
+20:28:18.792 INFO  main.WarVariation1 : Sue plays EIGHT of DIAMONDS as up card
+20:28:18.793 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.793 INFO  main.WarVariation1 : Score is Bob 94, Sue 106
+20:28:18.793 INFO  main.WarVariation1 : Bob plays TEN of CLUBS as up card
+20:28:18.793 INFO  main.WarVariation1 : Sue plays TWO of DIAMONDS as up card
+20:28:18.793 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.793 INFO  main.WarVariation1 : Score is Bob 96, Sue 106
+20:28:18.794 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+20:28:18.794 INFO  main.WarVariation1 : Sue plays NINE of CLUBS as up card
+20:28:18.794 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.795 INFO  main.WarVariation1 : Score is Bob 96, Sue 108
+20:28:18.795 INFO  main.WarVariation1 : Bob plays SEVEN of DIAMONDS as up card
+20:28:18.796 INFO  main.WarVariation1 : Sue plays THREE of SPADES as up card
+20:28:18.796 INFO  main.WarVariation1 : Bob wins the round
+20:28:18.796 INFO  main.WarVariation1 : Score is Bob 98, Sue 108
+20:28:18.796 INFO  main.WarVariation1 : Bob plays FIVE of CLUBS as up card
+20:28:18.796 INFO  main.WarVariation1 : Sue plays TEN of DIAMONDS as up card
+20:28:18.797 INFO  main.WarVariation1 : Sue wins the round
+20:28:18.797 INFO  main.WarVariation1 : Score is Bob 98, Sue 110
+20:28:18.797 INFO  main.WarVariation1 : Sue wins!
+21:10:54.456 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:10:54.460 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:10:54.460 INFO  main.WarVariation1 : Sue wins the round
+21:10:54.461 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:10:54.461 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:10:54.462 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:10:54.464 INFO  main.WarVariation1 : Sue wins the round
+21:10:54.465 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:10:54.465 INFO  main.WarVariation1 : Sue wins!
+21:12:57.713 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:12:57.718 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:12:57.719 INFO  main.WarVariation1 : Sue wins the round
+21:12:57.719 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:12:57.720 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:12:57.720 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:12:57.720 INFO  main.WarVariation1 : Sue wins the round
+21:12:57.721 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:12:57.721 INFO  main.WarVariation1 : Sue wins!
+21:15:06.840 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:15:06.843 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:15:06.844 INFO  main.WarVariation1 : Sue wins the round
+21:15:06.845 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:15:06.845 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:15:06.845 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:15:06.846 INFO  main.WarVariation1 : Sue wins the round
+21:15:06.846 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:15:06.847 INFO  main.WarVariation1 : Sue wins!
+21:20:38.391 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:20:38.396 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:20:38.397 INFO  main.WarVariation1 : Sue wins the round
+21:20:38.398 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:20:38.398 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:20:38.399 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:20:38.399 INFO  main.WarVariation1 : Sue wins the round
+21:20:38.399 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:20:38.400 INFO  main.WarVariation1 : Sue wins!
+21:20:38.402 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:20:38.403 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:20:38.405 INFO  main.WarVariation1 : Sue wins the round
+21:20:38.405 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:20:38.406 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:20:38.407 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:20:38.407 INFO  main.WarVariation1 : Sue wins the round
+21:20:38.408 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:20:38.408 INFO  main.WarVariation1 : Sue wins!
+21:21:07.112 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:21:07.116 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:21:07.116 INFO  main.WarVariation1 : Sue wins the round
+21:21:07.117 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:21:07.117 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:21:07.118 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:21:07.119 INFO  main.WarVariation1 : Sue wins the round
+21:21:07.121 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:21:07.122 INFO  main.WarVariation1 : Sue wins!
+21:21:07.125 INFO  main.WarVariation2 : Bob plays ONE of SPADES as up card
+21:21:07.126 INFO  main.WarVariation2 : Sue plays TWO of SPADES as up card
+21:21:07.127 INFO  main.WarVariation2 : Sue wins the round
+21:21:07.127 INFO  main.WarVariation2 : Score is Bob 0, Sue 2
+21:21:07.128 INFO  main.WarVariation2 : Bob plays ONE of HEARTS as up card
+21:21:07.128 INFO  main.WarVariation2 : Sue plays TWO of HEARTS as up card
+21:21:07.129 INFO  main.WarVariation2 : Sue wins the round
+21:21:07.129 INFO  main.WarVariation2 : Score is Bob 0, Sue 4
+21:21:07.129 INFO  main.WarVariation2 : Sue wins!
+21:23:36.631 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:23:36.634 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:23:36.635 INFO  main.WarVariation1 : Sue wins the round
+21:23:36.636 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:23:36.636 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:23:36.637 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:23:36.638 INFO  main.WarVariation1 : Sue wins the round
+21:23:36.638 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:23:36.639 INFO  main.WarVariation1 : Sue wins!
+21:23:36.643 INFO  main.WarVariation2 : Bob plays ONE of SPADES as up card
+21:23:36.644 INFO  main.WarVariation2 : Sue plays TWO of SPADES as up card
+21:23:36.645 INFO  main.WarVariation2 : Sue wins the round
+21:23:36.645 INFO  main.WarVariation2 : Score is Bob 0, Sue 2
+21:23:36.646 INFO  main.WarVariation2 : Bob plays ONE of HEARTS as up card
+21:23:36.647 INFO  main.WarVariation2 : Sue plays TWO of HEARTS as up card
+21:23:36.647 INFO  main.WarVariation2 : Sue wins the round
+21:23:36.648 INFO  main.WarVariation2 : Score is Bob 0, Sue 4
+21:23:36.648 INFO  main.WarVariation2 : Sue wins!
+21:28:35.340 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:28:35.344 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:28:35.345 INFO  main.WarVariation1 : Sue wins the round
+21:28:35.345 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:28:35.346 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:28:35.346 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:28:35.346 INFO  main.WarVariation1 : Sue wins the round
+21:28:35.347 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:28:35.347 INFO  main.WarVariation1 : Sue wins!
+21:28:35.350 INFO  main.WarVariation2 : Bob plays ONE of SPADES as up card
+21:28:35.351 INFO  main.WarVariation2 : Sue plays TWO of SPADES as up card
+21:28:35.351 INFO  main.WarVariation2 : Sue wins the round
+21:28:35.352 INFO  main.WarVariation2 : Score is Bob 0, Sue 2
+21:28:35.352 INFO  main.WarVariation2 : Bob plays ONE of HEARTS as up card
+21:28:35.353 INFO  main.WarVariation2 : Sue plays TWO of HEARTS as up card
+21:28:35.353 INFO  main.WarVariation2 : Sue wins the round
+21:28:35.354 INFO  main.WarVariation2 : Score is Bob 0, Sue 4
+21:28:35.354 INFO  main.WarVariation2 : Sue wins!
+21:33:14.529 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:33:14.533 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:33:14.533 INFO  main.WarVariation1 : Sue wins the round
+21:33:14.534 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:33:14.535 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:33:14.535 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:33:14.536 INFO  main.WarVariation1 : Sue wins the round
+21:33:14.536 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:33:14.537 INFO  main.WarVariation1 : Sue wins!
+21:33:14.540 INFO  main.WarVariation2 : Bob plays ONE of SPADES as up card
+21:33:14.541 INFO  main.WarVariation2 : Sue plays TWO of SPADES as up card
+21:33:14.541 INFO  main.WarVariation2 : Sue wins the round
+21:33:14.542 INFO  main.WarVariation2 : Score is Bob 0, Sue 2
+21:33:14.543 INFO  main.WarVariation2 : Bob plays ONE of HEARTS as up card
+21:33:14.543 INFO  main.WarVariation2 : Sue plays TWO of HEARTS as up card
+21:33:14.543 INFO  main.WarVariation2 : Sue wins the round
+21:33:14.544 INFO  main.WarVariation2 : Score is Bob 0, Sue 4
+21:33:14.544 INFO  main.WarVariation2 : Sue wins!
+21:35:13.077 INFO  main.WarVariation1 : Bob plays ONE of SPADES as up card
+21:35:13.079 INFO  main.WarVariation1 : Sue plays TWO of SPADES as up card
+21:35:13.080 INFO  main.WarVariation1 : Sue wins the round
+21:35:13.081 INFO  main.WarVariation1 : Score is Bob 0, Sue 2
+21:35:13.081 INFO  main.WarVariation1 : Bob plays ONE of HEARTS as up card
+21:35:13.082 INFO  main.WarVariation1 : Sue plays TWO of HEARTS as up card
+21:35:13.082 INFO  main.WarVariation1 : Sue wins the round
+21:35:13.083 INFO  main.WarVariation1 : Score is Bob 0, Sue 4
+21:35:13.083 INFO  main.WarVariation1 : Sue wins!
+21:35:13.086 INFO  main.WarVariation2 : Bob plays ONE of SPADES as up card
+21:35:13.087 INFO  main.WarVariation2 : Sue plays TWO of SPADES as up card
+21:35:13.087 INFO  main.WarVariation2 : Sue wins the round
+21:35:13.088 INFO  main.WarVariation2 : Score is Bob 0, Sue 2
+21:35:13.088 INFO  main.WarVariation2 : Bob plays ONE of HEARTS as up card
+21:35:13.089 INFO  main.WarVariation2 : Sue plays TWO of HEARTS as up card
+21:35:13.089 INFO  main.WarVariation2 : Sue wins the round
+21:35:13.090 INFO  main.WarVariation2 : Score is Bob 0, Sue 4
+21:35:13.090 INFO  main.WarVariation2 : Sue wins!
+21:35:13.094 INFO  main.WarVariation3 : Bob plays ONE of SPADES as up card
+21:35:13.095 INFO  main.WarVariation3 : Sue plays TWO of SPADES as up card
+21:35:13.095 INFO  main.WarVariation3 : lowkeysnc plays ONE of HEARTS as up card
+21:35:13.096 INFO  main.WarVariation3 : Sue wins the round
+21:35:13.096 INFO  main.WarVariation3 : Score is Bob 0, Sue 3, lowkeysnc 0
+21:35:13.097 INFO  main.WarVariation3 : Sue wins!
